@@ -1,0 +1,15 @@
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    0.745008] EXT4-fs (sda): mounted filesystem with ordered data mode. Opts: discard,errors=remount-ro,data=ordered
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    0.851462] EXT4-fs (sdb): mounted filesystem with ordered data mode. Opts: discard,errors=remount-ro,data=ordered
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    0.921652] init: (1) ERROR: UpdateTimezone:97: America/Denver timezone not found. Is the tzdata package installed?
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    0.921656] init: (1) ERROR: InitEntryUtilityVm:2425: UpdateTimezone failed
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    1.028032] init: (1) ERROR: UpdateTimezone:97: America/Denver timezone not found. Is the tzdata package installed?
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    1.028035] init: (1) ERROR: InitEntryUtilityVm:2425: UpdateTimezone failed
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    2.707572] EXT4-fs (sdc): mounted filesystem with ordered data mode. Opts: discard,errors=remount-ro,data=ordered
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    2.715352] init: (2) ERROR: UtilCreateProcessAndWait:474: /bin/mount failed with 2
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    2.715453] init: (1) ERROR: UtilCreateProcessAndWait:489: /bin/mount failed with status 0x
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    2.715457] init: (1) ERROR: ConfigMountFsTab:2077: Processing fstab with mount -a failed.
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    2.715922] init: (3) ERROR: UtilCreateProcessAndWait:474: /bin/mount failed with 2
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    2.715975] init: (1) ERROR: UtilCreateProcessAndWait:489: /bin/mount failed with status 0x
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    2.715981] init: (1) ERROR: MountPlan9:478: mount cache=mmap,noatime,trans=fd,rfdno=8,wfdno=8,msize=65536,aname=drvfs;path=C:\;uid=0;gid=0;symlinkroot=/mnt/
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    2.716393] init: (4) ERROR: UtilCreateProcessAndWait:474: /bin/mount failed with 2
+Sep 22 12:15:28 DESKTOP-616ENF0 kernel: [    7.223948] EXT4-fs (sdd): mounted filesystem with ordered data mode. Opts: discard,errors=remount-ro,data=ordered
